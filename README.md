@@ -30,6 +30,8 @@ Rock-Paper-and-Scissor/
 ├── style.css         # Game styling
 ├── script.js         # Game logic
 └── README.md         # Project documentation
+
+
 🧩 Game Rules
 1.> The user selects Rock, Paper, or Scissors.
 
